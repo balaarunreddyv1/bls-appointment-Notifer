@@ -1,3 +1,7 @@
+
+Everybody knows it's hard to get an appointment at a BLS office.
+Created a code that throws alert if appointment is open.
+
 Install npm, nodeJs
 - https://nodejs.org/en/download/
 - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
